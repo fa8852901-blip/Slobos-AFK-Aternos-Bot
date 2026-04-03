@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": " Minecraft_Gods1234.aternos.me",
+    "ip": "Minecraft_Gods1234.aternos.me",
     "port": 17846,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
